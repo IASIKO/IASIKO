@@ -1,6 +1,6 @@
 # Hi, I'm Giorgi Iaseshvili! 👋
 
-👨‍💻 Front-end Developer sharing about my journey and learnings in tech <br/>
+👨‍💻 Front-end Developer learning in tech <br/>
 👨‍🎓 Studied Mathematics at the Tbilisi State University, Georgia <br/>
 
 [![IASIKO's GitHub stats](https://github-readme-stats.vercel.app/api?username=IASIKO)](https://github.com/IASIKO/github-readme-stats)
