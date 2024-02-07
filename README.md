@@ -3,6 +3,8 @@
 👨‍💻 Front-end Developer learning in tech <br/>
 👨‍🎓 Studied Mathematics at the Tbilisi State University, Georgia <br/>
 
+🌐 [Portfolio](https://65a653565a5eada5be530c06--magical-cannoli-08ec0b.netlify.app/)
+
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
